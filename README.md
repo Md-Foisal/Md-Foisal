@@ -1,4 +1,4 @@
-![Foisal — Full-Stack Laravel Developer](https://raw.githubusercontent.com/Md-Foisal/Md-Foisal/main/banner_v1.png)
+![Foisal — Full-Stack Laravel Developer](https://raw.githubusercontent.com/Md-Foisal/Md-Foisal/main/banner.png)
 
 ## Hi, I'm Foisal 👋
 
@@ -9,3 +9,5 @@ Currently building: job-board (https://github.com/Md-Foisal/job-board) — a Lar
 Stack: PHP, Laravel, Livewire, Blade, MySQL/SQLite, Tailwind CSS.
 
 Learning in public — going from developer to software architect, one feature at a time. Check my pinned repositories below for more of my work.
+
+Reach me: mffoisal8@gmail.com or WhatsApp +8801828660354.
