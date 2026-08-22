@@ -1,3 +1,5 @@
+![Foisal — Full-Stack Laravel Developer](https://raw.githubusercontent.com/Md-Foisal/Md-Foisal/main/banner_v1.png)
+
 ## Hi, I'm Foisal 👋
 
 Full-stack developer focused on Laravel & Livewire, currently building a complete job board platform end-to-end as my flagship project.
