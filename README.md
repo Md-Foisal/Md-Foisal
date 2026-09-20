@@ -8,6 +8,8 @@ Currently building: job-board (https://github.com/Md-Foisal/job-board) — a Lar
 
 Stack: PHP, Laravel, Livewire, Blade, MySQL/SQLite, Tailwind CSS.
 
+[![Codewars Badge](https://www.codewars.com/users/Md-Foisal/badges/micro)](https://www.codewars.com/users/Md-Foisal)
+
 Learning in public — going from developer to software architect, one feature at a time. Check my pinned repositories below for more of my work.
 
 Reach me: mffoisal8@gmail.com or WhatsApp +8801828660354.
