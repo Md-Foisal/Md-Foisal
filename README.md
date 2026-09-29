@@ -30,7 +30,7 @@ Right now I'm looking for a **remote role** where I can work on a real product w
 
 ## Featured projects
 
-<a href="https://github.com/Md-Foisal/job-board"><img src="cards/job-board.svg" alt="Job Board: a multi-role hiring platform built with Laravel, Livewire and Filament" width="100%"></a>
+<a href="https://github.com/Md-Foisal/job-board"><img src="cards/job-board.svg" alt="Job Board: hiring platform flow from job post to hire, with staff moderation, built in layers with Laravel, Livewire and Filament" width="100%"></a>
 
 <a href="https://github.com/Md-Foisal/blog-management-system"><img src="cards/blog-management-system.svg" alt="Blog Platform: Laravel REST API with a Vue 3 front end" width="49%"></a>
 <a href="https://github.com/Md-Foisal/liftledger"><img src="cards/liftledger.svg" alt="LiftLedger: workout planner built with Next.js and TypeScript" width="49%"></a>
@@ -41,7 +41,7 @@ Click a card to open the code. Two of them are live, try them here: **[LiftLedge
 
 ## What I'm up to
 
-- Building **job-board** one layer at a time. Four layers are merged so far, each one in its own pull request.
+- Building **job-board** one layer at a time. Five layers are merged so far, each in its own pull request, and layer six is next.
 - Going deeper into software architecture: DDD, testing and queues.
 - Solving katas on Codewars when I need a break: [![Codewars](https://www.codewars.com/users/Md-Foisal/badges/micro)](https://www.codewars.com/users/Md-Foisal)
 
