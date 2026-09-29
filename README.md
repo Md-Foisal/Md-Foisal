@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="header/banner.svg" alt="Md. Foisal, Full-Stack Developer and Product Engineer, open to remote work" width="100%">
+<img src="header/banner.svg" alt="Md. Foisal, full-stack developer and product engineer, open to remote work" width="100%">
 
 </div>
 
 ## About me
 
-I'm a full-stack developer and product engineer from Feni, Bangladesh. I think like a product manager when shaping an idea, design like an architect when planning the system (database schema, domain model, UI architecture), and ship like a developer, building it with **Laravel and Livewire** on the back end and **Vue, React and Next.js** on the front.
+Hi, I'm Foisal, a full-stack developer from Feni, Bangladesh.
 
-I'm looking for **remote roles** where I can work on a real product, ship features end to end and keep growing from developer toward software architecture.
+I like owning a product from the first idea until it's live. Before I write any code I think about who is going to use it and what problem it solves for them. Then I plan the database, the domain and the screens. After that I build it, mostly with **Laravel and Livewire**, and with **Vue, React or Next.js** when the front end needs more.
 
-## How I build
+Right now I'm looking for a **remote role** where I can work on a real product with a good team.
 
-- **Domain first.** I model the business before the screens, following Domain-Driven Design (DDD) ideas: clear domain language, and business rules in single-purpose action classes (for example `ApproveJobPosting` and `ChangeApplicationStage` in [job-board](https://github.com/Md-Foisal/job-board/tree/main/app/Actions)).
-- **Database architecture.** Normalised relational schemas, deliberate relationships and indexes, designed before the first migration.
-- **UI architecture.** Reusable components and predictable state, whether in Livewire, Vue or React.
-- **Decisions on record.** Important technical choices are written down as ADRs (Architecture Decision Records): what was decided, why, and what was traded off.
-- **Tested and shippable.** Feature tests with Pest, and apps that get deployed, not just run locally.
+## How I work
+
+- **I start with the domain.** I name things the way the business names them, and every business rule lives in its own action class. You can see this in [job-board](https://github.com/Md-Foisal/job-board/tree/main/app/Actions), for example `ApproveJobPosting` and `ChangeApplicationStage`.
+- **I design the database first.** Tables, relations and indexes are planned before the first migration.
+- **I keep the UI simple.** Small reusable components and easy to follow state, in Livewire, Vue or React.
+- **I write down big decisions.** Each one gets a short ADR (Architecture Decision Record): what I picked, why, and what I gave up.
+- **I test and I ship.** Feature tests with Pest, and apps that actually get deployed.
 
 ## Tech stack
 
@@ -28,21 +30,24 @@ I'm looking for **remote roles** where I can work on a real product, ship featur
 
 ## Featured projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[job-board](https://github.com/Md-Foisal/job-board)** <br> *(in progress, flagship)* | A job board with role-based access for candidates, employers and agencies, smart skill matching, structured salary filtering and a complete application tracking system. | Laravel, Livewire, Filament, Fortify (auth), Pest (tests), Tailwind CSS |
-| **[blog-management-system](https://github.com/Md-Foisal/blog-management-system)** | A full-stack blog platform: Laravel REST API with a Vue 3 frontend, auth, posts, likes, nested comments, tags and bookmarks. | Laravel REST API, Vue 3, Pinia, Vue Router, Axios, Vite |
-| **[LiftLedger](https://github.com/Md-Foisal/liftledger)** <br> [Live demo](https://liftledger-app.vercel.app) | A workout library where you pick lifts, build a daily plan and track minutes and calories. The plan persists in the browser. | Next.js 16, TypeScript, Tailwind CSS v4 |
-| **[Dev Stack](https://github.com/Md-Foisal/stackforge)** <br> [Live demo](https://stackforge-foisal.vercel.app) | Browse technologies with ratings and difficulty, and add them to your own stack (no duplicates). | React (Vite), Tailwind CSS, DaisyUI |
-| **[product-management-system](https://github.com/Md-Foisal/product-management-system)** | A Laravel CRUD app with search, sorting and pagination. | Laravel, Blade |
+<a href="https://github.com/Md-Foisal/job-board"><img src="cards/job-board.svg" alt="Job Board: a multi-role hiring platform built with Laravel, Livewire and Filament" width="100%"></a>
 
-## Currently
+<a href="https://github.com/Md-Foisal/blog-management-system"><img src="cards/blog-management-system.svg" alt="Blog Platform: Laravel REST API with a Vue 3 front end" width="49%"></a>
+<a href="https://github.com/Md-Foisal/liftledger"><img src="cards/liftledger.svg" alt="LiftLedger: workout planner built with Next.js and TypeScript" width="49%"></a>
+<a href="https://github.com/Md-Foisal/stackforge"><img src="cards/stackforge.svg" alt="Dev Stack: browse dev tools and build your own stack, built with React" width="49%"></a>
+<a href="https://github.com/Md-Foisal/product-management-system"><img src="cards/product-management-system.svg" alt="Product Manager: Laravel CRUD app with search, sorting and pagination" width="49%"></a>
 
-- Building **job-board** end to end, learning in public, one feature at a time.
-- Going deeper on software architecture: DDD, testing, queues and documenting decisions as ADRs.
-- Sharpening problem solving on Codewars: [![Codewars](https://www.codewars.com/users/Md-Foisal/badges/micro)](https://www.codewars.com/users/Md-Foisal)
+Click a card to open the code. Two of them are live, try them here: **[LiftLedger](https://liftledger-app.vercel.app)** and **[Dev Stack](https://stackforge-foisal.vercel.app)**.
 
-## Get in touch
+## What I'm up to
+
+- Building **job-board** one layer at a time. Four layers are merged so far, each one in its own pull request.
+- Going deeper into software architecture: DDD, testing and queues.
+- Solving katas on Codewars when I need a break: [![Codewars](https://www.codewars.com/users/Md-Foisal/badges/micro)](https://www.codewars.com/users/Md-Foisal)
+
+## Say hi
+
+Email is the fastest way to reach me. I'm also on LinkedIn and WhatsApp.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mffoisal8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-foisal-395848142)
