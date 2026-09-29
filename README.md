@@ -41,7 +41,7 @@ Click a card to open the code. Two of them are live, try them here: **[LiftLedge
 
 ## What I'm up to
 
-- Building **job-board** one layer at a time. Five layers are merged so far, each in its own pull request, and layer six is next.
+- Building **job-board** one layer at a time. Five layers are merged so far, each in its own pull request, and layer six is next: AI features (resume parser, AI match, CV builder, employer analytics and reviews). The design is done, the build starts now.
 - Going deeper into software architecture: DDD, testing and queues.
 - Solving katas on Codewars when I need a break: [![Codewars](https://www.codewars.com/users/Md-Foisal/badges/micro)](https://www.codewars.com/users/Md-Foisal)
 
