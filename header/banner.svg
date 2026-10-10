@@ -27,8 +27,8 @@
       <stop offset="0" stop-color="#000"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#000"/>
     </linearGradient>
     <mask id="waveMask"><rect width="460" height="800" fill="url(#band)">
-      <animateTransform attributeName="transform" type="translate" dur="12s" repeatCount="indefinite"
-        keyTimes="0;0.46;0.5;1" values="-460 0;1350 0;1350 0;1350 0"/></rect></mask>
+      <animateTransform attributeName="transform" type="translate" dur="5.5s" repeatCount="indefinite"
+        values="-460 0;1350 0"/></rect></mask>
     <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="257.6800000000002" x2="557.6800000000002" gradientTransform="skewX(-20)">
       <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
       <animateTransform attributeName="gradientTransform" type="translate" dur="5.5s" repeatCount="indefinite"
@@ -65,7 +65,7 @@
     <rect width="2400" height="800" fill="url(#bg)"/>
     <rect width="2400" height="800" fill="url(#aura)"/>
     <rect width="2400" height="800" fill="url(#dots)" mask="url(#leftOnly)"/>
-    <!-- dots: a light wave passes every 12s (twinkle removed 10 Oct) -->
+    <!-- dots: a light wave runs nonstop, 5.5s per pass (twinkle removed 10 Oct) -->
     <g mask="url(#leftOnly)">
       <rect width="2400" height="800" fill="url(#dotsHi)" mask="url(#waveMask)" opacity="1"/>
     </g>
