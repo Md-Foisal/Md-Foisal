@@ -10,7 +10,7 @@ I finished first in my Ostad full stack batch (99.7%). I'm looking for a remote 
 
 ## Main project
 
-**[job-board](https://github.com/Md-Foisal/job-board)**: a hiring platform for candidates, employers and staff.
+**[job-board](https://github.com/Md-Foisal/job-board)**: a hiring platform for candidates, employers and staff. [Live as HearBack](https://hearbackjobs.com)
 Laravel 13, PHP 8.4, Livewire, Filament, Fortify, Pest.
 
 - Built in layers, one pull request per layer.
