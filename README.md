@@ -25,7 +25,7 @@ Three platforms so far, all designed, built and shipped by me: a live hiring pla
 
 Candidates, employers and staff in one system: jobs, applications with a timeline, an applicant board, moderation, company reviews, and a CV builder with 7 templates and Chromium PDFs. In production with Docker, MySQL, Google and GitHub login, two-factor login, S3-compatible uploads and real mail. Built with Laravel 13, PHP 8.4, Livewire, Filament, Fortify and Pest.
 
-**[Tandoor House](https://github.com/Md-Foisal/tandoor-house)**, restaurant platform (Laravel and React). [Demo](https://tandoor-house.onrender.com) and [film](https://youtu.be/NwxVs3GprHQ)
+**[Tandoor House](https://github.com/Md-Foisal/tandoor-house)**, restaurant platform (Laravel and React). [Demo](https://tandoorhouse.onrender.com) and [film](https://youtu.be/NwxVs3GprHQ)
 
 > 7 roles in one real-time platform, 2,508 Pest tests, PHPStan level 7, WCAG 2.2 AA checked with axe.
 
